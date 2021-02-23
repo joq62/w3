@@ -1,0 +1,21 @@
+ <!DOCTYPE html>
+<html lang="en">
+<meta charset="UTF-8">
+<title>Page Title</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<style>
+</style>
+<script src=""></script>
+<body>
+
+<img src="/home/joq62/Pictures/Pictures/Maldiverna/maldiverna_2020/01/DSC_0032.JPG" alt="NotAvailable" class="w3-circle"  style="width:50%" >
+
+<div class="w3-container w3-black">
+<h1>This is a Heading</h1>
+<p>This is a paragraph.</p>
+<p>This is another paragraph.</p>
+</div>
+
+</body>
+</html>

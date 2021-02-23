@@ -1,0 +1,39 @@
+ <!DOCTYPE html>
+<html lang="en">
+<meta charset="UTF-8">
+<title>v1</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<style>
+
+
+</style>
+<script src=""></script>
+<body>
+<!-- Start Content -->
+<div id="home" class="w3-content">
+
+  <!-- Navbar (Sits on top) -->
+<div class="w3-top w3-bar w3-xlarge w3-black w3-opacity-min">
+<a href="#home" class="w3-bar-item w3-button">Tbax</a>
+<a href="#vaermdoe" class="w3-bar-item w3-button">Värmdö</a>
+<a href="#stockholm" class="w3-bar-item w3-button">Stockholm</a>
+<a href="#windy" class="w3-bar-item w3-button">Windy</a>
+</div>
+<!-- Header image -->
+<div style="height:800px;background-image:url('v1.jpg');background-size:cover"
+class="w3-display-container w3-grayscale-min">
+<div class="w3-display-bottomleft">
+  <span class="w3-tag w3-xlarge">Open from 10am to 12pm</span>
+</div>
+<div class="w3-display-middle w3-center">
+  <span class="w3-text-white" style="font-size:100px">thin<br>CRUST PIZZA</span>
+  <p><a href="#menu" class="w3-button w3-xxlarge w3-black">Let me see the menu</a></p>
+</div>
+
+  <img src="v1.JPG" alt="NotAvailable"   style="width:100%" >
+</div>
+
+</body>
+</html>
